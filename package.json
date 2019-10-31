@@ -1,0 +1,24 @@
+{
+  "name": "mathworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "c2runtime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathworlduna/mathworld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathworlduna/mathworld/issues"
+  },
+  "homepage": "https://github.com/mathworlduna/mathworld#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
